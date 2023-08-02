@@ -1,20 +1,27 @@
 ### What's up?
 
 ## About me
-I'm a 2nd year Computer Science student at Norwegian University of Science and Technology.  
+I'm a 3rd year Computer Science student at Norwegian University of Science and Technology, where I'm passionately studying Artificial Intelligence. 
 
-* I'm currently working on <a href="https://folk.ntnu.no/olavslo/">my personal NTNU webpage</a>.
-* I'm currently learning about <u>agile software engineering</u>.
+<!-- * I'm currently working on <a href="https://folk.ntnu.no/olavslo/">my personal NTNU webpage</a>. -->
+* I'm currently learning about the .NET Core
+* I'm currently working on a project implementing OpenAI's GPT-4 model
 
 ## Languages and Frameworks I know and study
-![Java](logos/java.png)
-![Python](logos/python.png)
-![HTML](logos/html.png)
-![Javascript](logos/javascript.png)
-![CSS](logos/css.png)
-![React](logos/react.png)
-![C](logos/c.png)
-![GitLab](logos/gitlab.png)
+<img src="logos/c-sharp.png" style="height: 60px" />
+<img src="logos/dotnet.png" style="height: 60px" />
+<img src="logos/kubernetes.webp" style="height: 60px" />
+<img src="logos/docker.png" style="height: 60px" />
+<img src="logos/openai.png" style="height: 60px" />
+<img src="logos/java.png" style="height: auto" />
+<img src="logos/python.png" style="height: auto" />
+<img src="logos/html.png" style="height: auto" />
+<img src="logos/javascript.png" style="height: auto" />
+<img src="logos/react.png" style="height: auto" />
+<img src="logos/nodejs.png" style="height: 60px" />
+<img src="logos/c.png" style="height: auto" />
+<img src="logos/gitlab.png" style="height: auto" />
+<img src="logos/mongodb.png" style="height: 100px; position: relative; left: -30px; top: 20px" />
 
 ## Contact
 <div align="center">
