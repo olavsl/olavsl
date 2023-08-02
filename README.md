@@ -8,20 +8,22 @@ I'm a 3rd year Computer Science student at Norwegian University of Science and T
 * I'm currently working on a project implementing OpenAI's GPT-4 model
 
 ## Languages and Frameworks I know and study
-<img src="logos/c-sharp.png" style="height: 60px" />
-<img src="logos/dotnet.png" style="height: 60px" />
-<img src="logos/kubernetes.webp" style="height: 60px" />
-<img src="logos/docker.png" style="height: 60px" />
-<img src="logos/openai.png" style="height: 60px" />
-<img src="logos/java.png" style="height: auto" />
-<img src="logos/python.png" style="height: auto" />
-<img src="logos/html.png" style="height: auto" />
-<img src="logos/javascript.png" style="height: auto" />
-<img src="logos/react.png" style="height: auto" />
-<img src="logos/nodejs.png" style="height: 60px" />
-<img src="logos/c.png" style="height: auto" />
-<img src="logos/gitlab.png" style="height: auto" />
-<img src="logos/mongodb.png" style="height: 100px; position: relative; left: -30px; top: 20px" />
+<div>
+    <img src="logos/c-sharp.png" style="height: 60px; display: inline-block;" />
+    <img src="logos/dotnet.png" style="height: 60px; display: inline-block;" />
+    <img src="logos/kubernetes.webp" style="height: 60px; display: inline-block;" />
+    <img src="logos/docker.png" style="height: 60px; display: inline-block;" />
+    <img src="logos/openai.png" style="height: 60px; display: inline-block;" />
+    <img src="logos/java.png" style="height: auto; display: inline-block;" />
+    <img src="logos/python.png" style="height: auto; display: inline-block;" />
+    <img src="logos/html.png" style="height: auto; display: inline-block;" />
+    <img src="logos/javascript.png" style="height: auto; display: inline-block;" />
+    <img src="logos/react.png" style="height: auto; display: inline-block;" />
+    <img src="logos/nodejs.png" style="height: 60px; display: inline-block;" />
+    <img src="logos/c.png" style="height: auto; display: inline-block;" />
+    <img src="logos/gitlab.png" style="height: auto; display: inline-block;" />
+    <img src="logos/mongodb.png" style="height: 60px; display: inline-block;" />
+</div>
 
 ## Contact
 <div align="center">
