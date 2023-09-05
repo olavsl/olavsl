@@ -4,8 +4,8 @@
 I'm a 3rd year Computer Science student at Norwegian University of Science and Technology, where I'm passionately studying Artificial Intelligence. 
 
 <!-- * I'm currently working on <a href="https://folk.ntnu.no/olavslo/">my personal NTNU webpage</a>. -->
-* I'm currently learning about the .NET Core
-* I'm currently working on a project implementing OpenAI's GPT-4 model
+
+- 🔭 I'm currently working on a project implementing OpenAI's GPT-3.5 and DALL-E models
 
 ## Languages and Frameworks I know and study
 <div>
