@@ -25,13 +25,6 @@ I'm a 3rd year Computer Science student at Norwegian University of Science and T
     <img src="logos/mongodb.png" style="height: 60px; display: inline-block;" />
 </div>
 
-## Contact
-<div align="center">
-    <a href="https://www.instagram.com/olavslorentzen/"><image alt="Instagram" src="logos/instagram.png" style="padding: 5px"></a>
-    <a href="https://www.facebook.com/profile.php?id=100010600278078"><image alt="Facebook" src="logos/facebook.png" style="padding: 5px"></a>
-    <p>olav.selnes.lorentzen@gmail.com</p>
-</div>
-
 <!--
 **olavsl/olavsl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
