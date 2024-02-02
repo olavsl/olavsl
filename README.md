@@ -5,7 +5,7 @@ I'm a 3rd year Computer Science student at Norwegian University of Science and T
 
 <!-- * I'm currently working on <a href="https://folk.ntnu.no/olavslo/">my personal NTNU webpage</a>. -->
 
-- 🔭 I'm currently working on a project implementing OpenAI's GPT-3.5 and DALL-E models
+- 🔭 I'm currently working on a project implementing OpenAI's GPT-3.5 and creating a context database using Embeddings
 
 ## Languages and Frameworks I know and study
 <div>
