@@ -4,7 +4,7 @@
 I'm a 4th year Computer Science student at Norwegian University of Science and Technology, where I'm studying Artificial Intelligence. 
 I'm also leading Cogito NTNU, a student organization focused on facilitating knowledge sharing among the students at NTNU through hands-on AI-project work.
 
-## Languages and Frameworks I know and study
+## Languages, frameworks and tools I use
 <div>
     <img src="logos/c-sharp.png" style="height: 60px; display: inline-block;" />
     <img src="logos/dotnet.png" style="height: 60px; display: inline-block;" />
@@ -20,6 +20,7 @@ I'm also leading Cogito NTNU, a student organization focused on facilitating kno
     <img src="logos/c.png" style="height: auto; display: inline-block;" />
     <img src="logos/gitlab.png" style="height: auto; display: inline-block;" />
     <img src="logos/mongodb.png" style="height: 60px; display: inline-block;" />
+    <img src="logos/figma.png" style="height: 60px; display: inline-block;">
 </div>
 
 <!--
