@@ -1,8 +1,7 @@
 ### What's up?
 
 ## About me
-I'm a 4th year Computer Science student at Norwegian University of Science and Technology, where I'm studying Artificial Intelligence. 
-I'm also leading Cogito NTNU, a student organization focused on facilitating knowledge sharing among the students at NTNU through hands-on AI-project work.
+I'm a 5th year Computer Science student at Norwegian University of Science and Technology, where I'm studying Artificial Intelligence. 
 
 ## Languages, frameworks and tools I use
 <div>
